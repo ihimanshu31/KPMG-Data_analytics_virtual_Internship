@@ -14,8 +14,9 @@ Module 3:
 Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list. 
 		
 Modules Completed :
-● Data Quality Analysis (EDA) 
-● Data Insights and Presentation
+
+    ● Data Quality Analysis (EDA) 
+    ● Data Insights and Presentation
 
 
 Need to know more:
